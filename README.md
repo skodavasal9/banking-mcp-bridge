@@ -52,8 +52,3 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
     }
   }
 }
-
-## Lessons Learned
-1. Silent Failures: MCP servers don't have a visible terminal. Real-time logging to stderr and monitoring mcp.log is the only way to debug cross-language handshakes.
-
-2. Driver Registration: Manual registration of the SQLite JDBC driver (Class.forName) was required to ensure the bridge could locate the driver when invoked via the shell.
