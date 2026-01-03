@@ -53,5 +53,10 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
   }
 }
 
-<img width="1469" height="856" alt="Screenshot 2026-01-02 at 7 32 00 PM" src="https://github.com/user-attachments/assets/f18edf3b-83c0-480c-8019-b6a4587cd6d5" />
+## Demo: Claude using the Banking MCP Tool
+
+Here is Claude interacting with the Java Banking System in real-time to check an account balance:
+
+![Claude Balance Check](https://github.com/user-attachments/assets/f18edf3b-83c0-480c-8019-b6a4587cd6d5)
+
 
