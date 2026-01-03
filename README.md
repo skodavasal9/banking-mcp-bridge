@@ -52,3 +52,8 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
     }
   }
 }
+
+<img width="1469" height="856" alt="Screenshot 2026-01-02 at 7 32 00 PM" src="https://github.com/user-attachments/assets/3a2f9012-84fa-4c54-9350-d28cb5cd61c0" />
+
+
+
