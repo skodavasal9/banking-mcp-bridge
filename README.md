@@ -52,9 +52,3 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
     }
   }
 }
-
-
-https://github.com/user-attachments/assets/bf6ce1b4-eeb8-4ab5-8e10-14fd14143082
-
-
-
