@@ -52,3 +52,11 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
     }
   }
 }
+
+## Banking System Demo
+
+Here is the system in action:
+
+<img src="https://github.com/user-attachments/assets/f18edf3b-83c0-480c-8019-b6a4587cd6d5" width="800" />
+
+---
