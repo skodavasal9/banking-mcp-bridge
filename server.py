@@ -12,7 +12,7 @@ mcp = FastMCP("BankingSystem")
 JAVA_CP = "target/classes:target/dependency/*"
 
 MAIN_CLASS = "BankingSystem.BankCLI"
-APP_ROOT = "/Users/snigdhakodavasal/CodingFun/APITesting"
+APP_ROOT = "/Users/snigdhakodavasal/CodingFun/APITesting/src/main/java/BankingSystem"
 
 @mcp.tool()
 def get_balance(account_id: str) -> str:
