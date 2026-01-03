@@ -52,8 +52,3 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
     }
   }
 }
-
-## Claude Desktop Integration Demo
-<img width="1469" height="856" alt="Screenshot 2026-01-02 at 7 32 00 PM" src="https://github.com/user-attachments/assets/9aa8da63-9042-4009-a3cb-6f9eacf7389c" />
-
-
