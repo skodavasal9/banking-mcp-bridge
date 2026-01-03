@@ -48,10 +48,11 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
       "args": ["/Users/YOUR_USER/path/to/banking-mcp-bridge/server.py"],
       "env": {
         "PYTHONPATH": "/Users/YOUR_USER/path/to/banking-mcp-bridge"
-}
+      }
     }
   }
 }
+
 
 ## Banking System Demo
 
