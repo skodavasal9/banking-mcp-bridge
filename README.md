@@ -48,7 +48,7 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
       "args": ["/Users/YOUR_USER/path/to/banking-mcp-bridge/server.py"],
       "env": {
         "PYTHONPATH": "/Users/YOUR_USER/path/to/banking-mcp-bridge"
-      }
+}
     }
   }
 }
@@ -59,5 +59,5 @@ Here is the system in action, where Claude uses the MCP bridge to query the Java
 
 ![Claude Banking Demo](./assets/demo.png)
 
----
+
 
