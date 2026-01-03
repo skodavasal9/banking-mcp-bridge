@@ -52,3 +52,13 @@ Add the following to your `claude_desktop_config.json` (usually found in `~/Libr
     }
   }
 }
+
+---
+
+## Banking System Demo
+
+Here is the system in action, where Claude uses the MCP bridge to query the Java backend and SQLite database:
+
+![Claude Banking Demo](./assets/demo.png)
+
+---
